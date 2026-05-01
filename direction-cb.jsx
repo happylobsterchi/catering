@@ -64,7 +64,7 @@ function CateringDirectionB() {
                   <li>Ideal for 50–300 guests</li>
                 </ul>
                 <div className="svc-cta">
-                  <a className="bar-btn bar-btn-primary" href="https://happylobsterchicago.com/the-bar">Buy the Bar →</a>
+                  <a className="bar-btn bar-btn-primary" href="https://happylobsterchicago.com/the-bar" target="_top">Buy the Bar →</a>
                 </div>
               </div>
             </article>
@@ -85,7 +85,7 @@ function CateringDirectionB() {
                   <li>Ideal for 75–1,000 guests</li>
                 </ul>
                 <div className="svc-cta">
-                  <a className="bar-btn bar-btn-primary" href="https://happylobsterchicago.com/truck-catering">Book the Truck →</a>
+                  <a className="bar-btn bar-btn-primary" href="https://happylobsterchicago.com/truck-catering" target="_top">Book the Truck →</a>
                 </div>
               </div>
             </article>
@@ -107,7 +107,7 @@ function CateringDirectionB() {
                   <li>Kits for 8 · 16 · 24 · 32 guests</li>
                 </ul>
                 <div className="svc-cta">
-                  <a className="bar-btn bar-btn-primary" href="https://happylobsterchicago.com/party-kits">Order a kit →</a>
+                  <a className="bar-btn bar-btn-primary" href="https://happylobsterchicago.com/party-kits" target="_top">Order a kit →</a>
                 </div>
               </div>
             </article>
@@ -128,7 +128,7 @@ function CateringDirectionB() {
                   <li>$200 minimum · 24-hour notice</li>
                 </ul>
                 <div className="svc-cta">
-                  <a className="bar-btn bar-btn-primary" href="https://happy-lobster.square.site/?location=LGWHHYQW7TMZ1">Place an order →</a>
+                  <a className="bar-btn bar-btn-primary" href="https://happy-lobster.square.site/?location=LGWHHYQW7TMZ1" target="_top">Place an order →</a>
                 </div>
               </div>
             </article>
