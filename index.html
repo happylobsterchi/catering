@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Catering · Happy Lobster Chicago</title>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="description" content="Full-service lobster catering in Chicago — live bar, food truck, party kits, and drop-off. Pick the format that fits your event." />
+
+<link rel="stylesheet" href="colors_and_type.css" />
+<link rel="stylesheet" href="bar.css" />
+<link rel="stylesheet" href="catering.css" />
+
+<script crossorigin src="https://unpkg.com/react@18.3.1/umd/react.production.min.js"></script>
+<script crossorigin src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.production.min.js"></script>
+<script src="https://unpkg.com/@babel/standalone@7.29.0/babel.min.js"></script>
+</head>
+<body>
+<div id="app"></div>
+
+<script type="text/babel" src="components-shared.jsx"></script>
+<script type="text/babel" src="direction-cb.jsx"></script>
+
+<script type="text/babel">
+  const root = ReactDOM.createRoot(document.getElementById('app'));
+  root.render(<CateringDirectionB />);
+</script>
+</body>
+</html>
