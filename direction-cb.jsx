@@ -4,8 +4,6 @@
 function CateringDirectionB() {
   return (
     <div className="dirCB">
-      <BarNav variant="navy" activeKey="catering" />
-
       {/* HERO — uses the "Four ways to roll" copy as the headline */}
       <section className="hero" data-screen-label="B · Hero">
         <div className="hero-bg">
@@ -157,8 +155,6 @@ function CateringDirectionB() {
           </div>
         </div>
       </section>
-
-      <BarFooter />
     </div>
   );
 }
