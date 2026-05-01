@@ -12,7 +12,7 @@ function CateringDirectionB() {
           <img src="assets/catering-hero.png" alt="" />
         </div>
         <div className="bar-wrap hero-wrap">
-          <div className="hero-claim">Full-service catering · Chicago + Midwest</div>
+          <div className="hero-claim">Full-service catering · Chicago</div>
           <h1>However you want your lobster — <em>we've got a lane for it.</em></h1>
           <p className="hero-sub">Same Maine lobster, same claws-up hospitality. Pick the format that fits your event, your venue, and your vibe.</p>
           <div style={{display:'flex', gap:14, flexWrap:'wrap', marginTop:36}}>
@@ -66,7 +66,7 @@ function CateringDirectionB() {
                   <li>Ideal for 50–300 guests</li>
                 </ul>
                 <div className="svc-cta">
-                  <a className="bar-btn bar-btn-primary" href="Happy Lobster Bar Landing Page.html">Visit the Bar page →</a>
+                  <a className="bar-btn bar-btn-primary" href="https://happylobsterchicago.com/the-bar">Buy the Bar →</a>
                 </div>
               </div>
             </article>
@@ -87,7 +87,7 @@ function CateringDirectionB() {
                   <li>Ideal for 75–1,000 guests</li>
                 </ul>
                 <div className="svc-cta">
-                  <a className="bar-btn bar-btn-primary" href="Happy Lobster Truck Landing Page.html">Visit the Truck page →</a>
+                  <a className="bar-btn bar-btn-primary" href="https://happylobsterchicago.com/truck-catering">Book the Truck →</a>
                   <a className="svc-link" href="#inquiry">Request a quote →</a>
                 </div>
               </div>
@@ -110,8 +110,7 @@ function CateringDirectionB() {
                   <li>Kits for 8 · 16 · 24 · 32 guests</li>
                 </ul>
                 <div className="svc-cta">
-                  <a className="bar-btn bar-btn-primary" href="#inquiry">Order a kit →</a>
-                  <a className="svc-link" href="#inquiry">See the kit menu →</a>
+                  <a className="bar-btn bar-btn-primary" href="https://happylobsterchicago.com/party-kits">Order a kit →</a>
                 </div>
               </div>
             </article>
@@ -132,8 +131,7 @@ function CateringDirectionB() {
                   <li>$200 minimum · 24-hour notice</li>
                 </ul>
                 <div className="svc-cta">
-                  <a className="bar-btn bar-btn-primary" href="#inquiry">Place an order →</a>
-                  <a className="svc-link" href="#inquiry">See drop-off menu →</a>
+                  <a className="bar-btn bar-btn-primary" href="https://happy-lobster.square.site/?location=LGWHHYQW7TMZ1">Place an order →</a>
                 </div>
               </div>
             </article>
@@ -150,8 +148,8 @@ function CateringDirectionB() {
               <h2>Tell us about <span className="coral">it.</span></h2>
               <p>Whether you know exactly what you want or need help figuring out which lane fits — drop us the details. We'll come back with options, pricing, and a plan within one business day.</p>
               <div className="contact-card">
-                <div className="row"><span className="lbl">Email</span><span className="val">catering@happylobsterchicago.com</span></div>
-                <div className="row"><span className="lbl">Call</span><span className="val">(312) 555-0147</span></div>
+                <div className="row"><span className="lbl">Email</span><span className="val">hello@happylobsterchicago.com</span></div>
+                <div className="row"><span className="lbl">Call</span><span className="val">(708) 497-9653</span></div>
                 <div className="row"><span className="lbl">DM</span><span className="val">@happylobsterchi</span></div>
                 <div className="row"><span className="lbl">HQ</span><span className="val">2300 S Throop St · Chicago</span></div>
               </div>
