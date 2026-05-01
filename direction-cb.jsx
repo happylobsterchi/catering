@@ -88,7 +88,6 @@ function CateringDirectionB() {
                 </ul>
                 <div className="svc-cta">
                   <a className="bar-btn bar-btn-primary" href="https://happylobsterchicago.com/truck-catering">Book the Truck →</a>
-                  <a className="svc-link" href="#inquiry">Request a quote →</a>
                 </div>
               </div>
             </article>
